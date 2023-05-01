@@ -4,7 +4,7 @@
 }
 
 header{
-    background-image: url(/images/desktop/image-header.jpg);
+    background-image: url(image-header.jpg);
     background-repeat: no-repeat;
     background-size: 100% 100%;
     color: white;
@@ -79,21 +79,21 @@ h1{
 }
 .div2{
     
-    background-image: url(/images/desktop/image-transform.jpg);
+    background-image: url(image-transform.jpg);
     background-size: 100% 100%;
     min-height: 700px;
     background-repeat: no-repeat;
     height: auto;
 }
 .div3{
-    background-image: url(/images/desktop/image-stand-out.jpg);
+    background-image: url(image-stand-out.jpg);
     background-size: 100% 100%;
     background-repeat: no-repeat;
     min-height: 700px;
     height: auto;
 }
 .div5{
-    background-image: url(images/desktop/image-graphic-design.jpg);
+    background-image: url(image-graphic-design.jpg);
     background-repeat: no-repeat;
     color: hsl(167, 40%, 24%);
     background-size: 100% 100%;
@@ -101,7 +101,7 @@ h1{
     height: fit-content;
 }
 .div6{
-    background-image: url(images/desktop/image-photography.jpg);
+    background-image: url(image-photography.jpg);
     background-repeat: no-repeat;
     color: hsl(198, 62%, 26%);
     background-size: 100% 100%;
